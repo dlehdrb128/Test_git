@@ -1,2 +1,3 @@
 console.log("abab");
-console.log("babababababbbfdsabfewfwefweababa");
+console.log("ababfds");
+console.log("ㅇㅇㅇㅇㅇㅇㅇㅇㅇ");
